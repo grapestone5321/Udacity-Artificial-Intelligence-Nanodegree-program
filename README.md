@@ -1,6 +1,8 @@
 # Udacity-Artificial-Intelligence-Nanodegree-program
 Udacity-Artificial Intelligence Nanodegree program
 
+I've graduateded from udacity's Artificial Intelligence Nanodegree Program on February 22nd, 2018. I started this Nanodegree on July 13th, 2017.
+
 ## PART 1
 
 ### Introduction to Artificial Intelligence
